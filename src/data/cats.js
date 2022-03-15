@@ -37,7 +37,7 @@ export default [
     breed: 'bombay',
     species: 'cat',
     gender: 'female',
-    age: .9,
+    age: 9,
     color: 'black',
     weight: 9,
     location: 'threed',
